@@ -3,7 +3,7 @@
 MTA is a Python based tool leveraging Power BI for automated market trends and competitive data analysis. It automates data collection and visualization, reducing analysis time.
 
 ## Features
-1. Automated data collection from Google Trends and Twitter
+1. Automated data collection from Google Trends, Yahoo Finance API and Twitter
 2. Data analysis by using Python, Pandas, Numpy
 3. Data Visualization by using Matplotlib and Seaborn
 4. Interactive Power BI Dashboard
@@ -16,5 +16,6 @@ MTA is a Python based tool leveraging Power BI for automated market trends and c
 4. Matplotlib
 5. Seaborn
 6. Power BI
-7. Google Trends API
-8. Twitter Trends API
+7. Yahoo Finance API
+8. Google Trends API
+9. Twitter Trends API
